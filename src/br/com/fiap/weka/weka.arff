@@ -1,0 +1,20 @@
+@relation weka
+
+@attribute cor {magenta, branco, azul}
+@attribute espaco {vazio, cheio}
+@attribute gasta_muito {Nao, Sim}
+@attribute umidade {alta, normal}
+@attribute temperatura {quente, moderada, frio}
+
+
+@data
+magenta, vazio, Sim, alta, frio
+branco, cheio, Nao, normal, moderada
+azul, cheio, Nao, alta, moderada
+magenta, vazio, Sim, alta, frio
+branco, vazio, Nao, normal, quente
+magenta, vazio, Sim, normal, moderada
+branco, cheio, Nao, normal, moderada
+azul, cheio, Nao, alta, moderada
+magenta, vazio, Sim, alta, frio
+branco, vazio, Nao, normal, quente
